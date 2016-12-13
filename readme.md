@@ -1,4 +1,4 @@
-Simple Elm app example. Adds strings to a list.
+Simple Elm app example. Adds strings to a list. Inspired by ceruza.
 
 * Clone
 * Run ./install.bash to get local elm from npm and elm dependencies.
